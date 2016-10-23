@@ -4,4 +4,5 @@ how are you??
 dev modify
 feature1 and master modify
 no-ff test dev
-remote modify by local
+<<<<<<< HEAD
+remote modify by local and rufei
